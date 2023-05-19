@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.bracket {
+  position: absolute;
+  top: 91px;
+  height: auto;
+  width: 29px;
+  z-index: 1;
+  left: 10px;
+}
